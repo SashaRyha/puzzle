@@ -1,8 +1,3 @@
-"""
-Tyt bude repozitoriy ssylka
-"""
-
-
 def rows(board: list) -> bool:
     """
     Return True if row of cells doesnt have 2 identical numbers,
